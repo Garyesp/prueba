@@ -1,2 +1,2 @@
 primer archivo
-archivo modificado localmente
+archivo modificado localmente - modificado desde la web
