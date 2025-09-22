@@ -1,2 +1,2 @@
 primer archivo
-archivo modificado localmente - no quiero esta descripcion quiero local
+otro cambio modificado localmente - no quiero esta descripcion quiero local
